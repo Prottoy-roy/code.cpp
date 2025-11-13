@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main() {
-  cout<<"prottoy roy";
+  cout<<"prottoy" <<"\n" "roy" <<endl;
   return 0;
 }
