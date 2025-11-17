@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main() {
+  int n;
+  cout << "Enter n:" << endl;
+  cin >> n;
+  cout << (n >= 0 ? "positive" : "negetive") << endl;
+  return 0;
+}
